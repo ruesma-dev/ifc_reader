@@ -171,6 +171,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 # PyCharm
 .idea/
+.input/
+.output/
 
 # Ruff stuff:
 .ruff_cache/
@@ -187,4 +189,5 @@ cython_debug/
 *.ENV
 *.bc3
 *.png
-
+*.xlsx
+*.ifc
